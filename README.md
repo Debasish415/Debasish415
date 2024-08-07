@@ -11,7 +11,7 @@ I am a passionate B.Tech CS student at Trident Academy Of Technology, driven by 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,php,postgres,react,linux,mysql,c,cpp,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,php,postgres,react,linux,mysql,c,cpp,github,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
